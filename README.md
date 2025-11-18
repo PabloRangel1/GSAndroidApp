@@ -51,7 +51,8 @@ A tela principal que valida o usuário "admin" e senha "123456".
 
 ### 4. Tela de Cálculo de IMC
 
-<img width="21" height="23" alt="image" src="https://github.com/user-attachments/assets/f53a7f81-cd7f-486e-bba2-58e036cdde18" />
+<img width="331" height="538" alt="image" src="https://github.com/user-attachments/assets/6d8fb0f8-398e-4d10-933b-cdb52ec02333" />
+
 
 
 
