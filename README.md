@@ -6,10 +6,8 @@ O objetivo foi criar um novo aplicativo em Jetpack Compose do zero, utilizando o
 
 ## 👥 Integrantes da Equipe
 
-Conforme solicitado, seguem os integrantes do projeto:
-
-* **Nome:** `[Pablo Samuel Rangel Quilaqueo Aguayo]` - **RM:** `[RM:551548]`
-* **Nome:** `[Leonardo Franco de Oliveira]` - **RM:** `[RM:552528]`
+* **Nome:** `Pablo Samuel Rangel Quilaqueo Aguayo` - **RM:** `RM:551548`
+* **Nome:** `Leonardo Franco de Oliveira` - **RM:** `RM:552528`
 
 ## 🚀 Tecnologias Utilizadas
 
