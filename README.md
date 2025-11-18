@@ -1,6 +1,6 @@
 # GS Android Kotlin Developer - 3SIR
 
-Projeto desenvolvido para a Global Solution (GS) da disciplina "Android Kotlin Developer"].
+Projeto desenvolvido para a Global Solution (GS) da disciplina "Android Kotlin Developer".
 
 O objetivo foi criar um novo aplicativo em Jetpack Compose do zero, utilizando os conceitos aprendidos e os repositórios de referência (`android--navigation-between-screens-app` e `android--imc-app` ). O aplicativo implementa um fluxo de navegação completo, incluindo uma tela de login com validação, uma tela de menu, uma calculadora de IMC e uma tela de equipe.
 
